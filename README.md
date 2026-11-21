@@ -123,10 +123,8 @@ Baixe o repositório pelo botão **Code → Download ZIP** e extraia o conteúdo
 Também é possível cloná-lo com Git.
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/fabiodinizrossi/Portugol-IA
 ```
-
-Substitua `URL_DO_REPOSITORIO` pelo endereço deste repositório.
 
 Coloque o arquivo original `Portugol.jar` na pasta principal. Preserve a pasta `lib` ou outros arquivos auxiliares, caso sua distribuição do Portugol dependa deles.
 
